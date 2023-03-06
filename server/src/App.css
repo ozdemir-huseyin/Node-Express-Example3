@@ -1,0 +1,28 @@
+.Post{
+  margin-left: 25px;
+  margin-right: 20px;
+}
+.Post-number{
+  border-bottom:1px solid;
+  height: 30px;
+  padding-left: 20px;
+}
+.post-context-container{
+border: 1px solid;
+border-radius: 5px;
+}
+.post-map{
+  padding-top: 10px;
+}
+.Post-context-title{
+  padding-left: 20px;
+}
+.Post-context{
+  padding-left: 20px;
+}
+.user-button{
+  background-color: cadetblue;
+  border-radius: 5px;
+  height: 30px;
+  margin-left: 20px;
+}
